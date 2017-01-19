@@ -1,0 +1,14 @@
+
+            SCORES
+------------------------------
+    NAME    | CORRECT | SCORE
+------------------------------
+Douglas Lau | 15 | 1850
+Dougss | 15 | 1850
+Dougles | 12 | 1325
+Dddd | 15 | 1850
+Douglas  | 4 | 575
+Sausage | 15 | 1725
+i failed | 5 | 675
+jeffery ng | 14 | 1800
+Sheryl is a Noob | 13 | 1500
